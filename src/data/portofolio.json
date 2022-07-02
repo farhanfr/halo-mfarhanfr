@@ -1,0 +1,159 @@
+{
+    "data":[
+        {
+            "name":"PanenPanen.id",
+            "cover":"https://play-lh.googleusercontent.com/S04zKwsq82RdRvFEOOrUF_LJyN2sWU3R1o7V0rMZYLEp2cV9KoBQR-8X6QAf2VcVc6E=w2560-h1440-rw",
+            "photos":[
+                {
+                    "photo":"https://play-lh.googleusercontent.com/S04zKwsq82RdRvFEOOrUF_LJyN2sWU3R1o7V0rMZYLEp2cV9KoBQR-8X6QAf2VcVc6E=w2560-h1440-rw"
+                }
+            ],
+            "description":"ini deskripsi",
+            "tools":[],
+            "preview_project":[
+                {
+                    "link":"https://www.panenpanen.id/",
+                    "title":"https://www.panenpanen.id/",
+                    "type":"- (Web)"
+                },
+                {
+                    "link":"https://play.google.com/store/apps/details?id=com.panenpanen.marketplace",
+                    "title":"Google Play",
+                    "type":"- (Mobile)"
+                }
+            ]
+        },
+        {
+            "name":"Bisnisomall",
+            "cover":"https://play-lh.googleusercontent.com/22HrbZQep-j1I9zcA65DRGnOIs_6G1Mms6K1rnNLGkV3d7YawKgA3CEQCAQijW5RgPan=w2560-h1440-rw",
+            "photos":[
+                {
+                    "photo":"https://play-lh.googleusercontent.com/22HrbZQep-j1I9zcA65DRGnOIs_6G1Mms6K1rnNLGkV3d7YawKgA3CEQCAQijW5RgPan=w2560-h1440-rw"
+                }
+            ],
+            "description":"ini deskripsi",
+            "tools":[],
+            "preview_project":[
+                {
+                    "link":"https://bisnisomall.com/",
+                    "title":"https://bisnisomall.com/",
+                    "type":"- (Web)"
+                },
+                {
+                    "link":"https://play.google.com/store/apps/details?id=id.bisniso.market",
+                    "title":"Google Play",
+                    "type":"- (Mobile)"
+                }
+            ]
+        },
+        {
+            "name":"Monitoring Presisi",
+            "cover":"https://play-lh.googleusercontent.com/wJ0yywa7P3k-4BD1V7ww5IFTrzZMFa6pM-xDNY-4vMgG3mmA-PRZHp4X_ckjQkmDoFc=w2560-h1440-rw",
+            "photos":[
+                {
+                    "photo":"https://play-lh.googleusercontent.com/wJ0yywa7P3k-4BD1V7ww5IFTrzZMFa6pM-xDNY-4vMgG3mmA-PRZHp4X_ckjQkmDoFc=w2560-h1440-rw"
+                }
+            ],
+            "description":"ini deskripsi",
+            "tools":[],
+            "preview_project":[]
+        },
+        {
+            "name":"Pembudidaya Panen Ikan",
+            "cover":"https://res.cloudinary.com/halomfarhanfr/image/upload/v1656477197/Panen%20Ikan/Group_1_1_qh1cez.png",
+            "photos":[
+                {
+                    "photo":"https://res.cloudinary.com/halomfarhanfr/image/upload/v1656477197/Panen%20Ikan/Group_1_1_qh1cez.png"
+                }
+            ],
+            "description":"ini deskripsi",
+            "tools":[],
+            "preview_project":[
+                {
+                    "link":"https://bisnisomall.com/",
+                    "title":"https://bisnisomall.com/",
+                    "type":"- (Web)"
+                },
+                {
+                    "link":"https://play.google.com/store/apps/details?id=id.bisniso.market",
+                    "title":"Google Play",
+                    "type":"- (Mobile)"
+                }
+            ]
+        },
+        {
+            "name":"PBD ADMA Mobile",
+            "cover":"https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552838/pbd%20/Group_1_7_tyemes.png",
+            "photos":[
+                {
+                    "photo":"https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552838/pbd%20/Group_1_7_tyemes.png"
+                }
+            ],
+            "description":"ini deskripsi",
+            "tools":[],
+            "preview_project":[]
+        },
+        {
+            "name":"Modul Ajar Sistem Kontrol App",
+            "cover":"https://res.cloudinary.com/halomfarhanfr/image/upload/v1656478731/Modul%20ajar/Group_1_2_tbczul.png",
+            "photos":[
+                {
+                    "photo":"https://res.cloudinary.com/halomfarhanfr/image/upload/v1656478731/Modul%20ajar/Group_1_2_tbczul.png"
+                }
+            ],
+            "description":"ini deskripsi",
+            "tools":[],
+            "preview_project":[]
+        },
+        {
+            "name":"Perpustakaan Resep Makanan App",
+            "cover":"https://res.cloudinary.com/halomfarhanfr/image/upload/v1656551951/Perputakaan%20resep%20makanan/Group_1_3_vkqdio.png",
+            "photos":[
+                {
+                    "photo":"https://res.cloudinary.com/halomfarhanfr/image/upload/v1656551951/Perputakaan%20resep%20makanan/Group_1_3_vkqdio.png"
+                }
+            ],
+            "description":"ini deskripsi",
+            "tools":[],
+            "preview_project":[]
+        },
+        {
+            "name":"E-Islamic",
+            "cover":"https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552212/E-islamic%20quran/Group_1_4_a3mjsg.png",
+            "photos":[
+                {
+                    "photo":"https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552212/E-islamic%20quran/Group_1_4_a3mjsg.png"
+                }
+            ],
+            "description":"ini deskripsi",
+            "tools":[],
+            "preview_project":[]
+        },
+        {
+            "name":"Family Reward",
+            "cover":"https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552420/Family%20Reward/Group_1_5_kwulam.png",
+            "photos":[
+                {
+                    "photo":"https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552420/Family%20Reward/Group_1_5_kwulam.png"
+                }
+            ],
+            "description":"ini deskripsi",
+            "tools":[],
+            "preview_project":[]
+        },
+        {
+            "name":"Pantau Covid-19",
+            "cover":"https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552666/pantau%20covid-19/Group_1_6_ch2q22.png",
+            "photos":[
+                {
+                    "photo":"https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552666/pantau%20covid-19/Group_1_6_ch2q22.png"
+                }
+            ],
+            "description":"ini deskripsi",
+            "tools":[],
+            "preview_project":[]
+        }
+        
+        
+    ]
+}
