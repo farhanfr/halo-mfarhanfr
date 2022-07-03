@@ -21,6 +21,12 @@
    padding: 10px 25px;
 }
 
+@media screen and (max-width: 768px) {
+    .base-home {
+        display: flex;
+        flex-direction: column;
+    }
+}
 
 
 
