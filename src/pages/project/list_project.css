@@ -9,3 +9,9 @@
     font-size: 4em;
     font-weight: bold;
 }
+
+@media screen and (max-width: 768px) {
+    .lp-header .lp-title{
+        font-size: 2em;
+    }
+}

@@ -31,12 +31,12 @@ const ProjectPage = () => {
                     <div className='col-lg-6'>
                         <ReactImageGallery items={photoData} showPlayButton={false} showNav={true} showThumbnails={false}/>
                     </div>
-                    <div className='col-lg-6'>
+                    <div className='col-lg-6 project-info'>
                         <div className='card'>
                             <div className='card-body'>
-                                <h5><b>Deskripsi</b></h5>
+                                <h5 style={{color:'#4E73DF'}}><b>Deskripsi</b></h5>
                                 <p>{projectData.description}</p>
-                                <h5><b>Demo Project</b></h5>
+                                <h5 style={{color:'#4E73DF'}}><b>Demo Project</b></h5>
                                 {
                                     projectData.preview_project?.length != 0 ?
                                         <ul>
