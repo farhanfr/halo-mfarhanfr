@@ -144,12 +144,12 @@ const HomePage = () => {
                                 <a href='https://gitlab.com/farhanfitrahtur'>https://gitlab.com/farhanfitrahtur</a>
                             </li>
                             <div style={{ height: '10px' }}></div>
-                            <li>
+                            {/* <li>
                                 <b>Sertifikat</b>
                                 <div></div>
                                 <a href='https://drive.google.com/drive/folders/1_d0RLoN_IEPuI82FaIm4EN09H-iHkI7B?usp=sharing'>https://drive.google.com/drive/folders/1_d0RLoN_IEPuI82FaIm4EN09H-iHkI7B?usp=sharing</a>
                             </li>
-                            <div style={{ height: '10px' }}></div>
+                            <div style={{ height: '10px' }}></div> */}
                             <li>
                                 <b>Medium</b>
                                 <div></div>
