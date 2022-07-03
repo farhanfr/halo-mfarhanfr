@@ -29,15 +29,14 @@ const ProjectPage = () => {
             <div className='container-fluid' style={{ paddingTop: '20px' }}>
                 <div className='row'>
                     <div className='col-lg-6'>
-                        
                         <ReactImageGallery items={photoData} showPlayButton={false} showNav={true} showThumbnails={false}/>
                     </div>
                     <div className='col-lg-6'>
                         <div className='card'>
                             <div className='card-body'>
-                                <h5>Deskripsi</h5>
+                                <h5><b>Deskripsi</b></h5>
                                 <p>{projectData.description}</p>
-                                <h5>Demo Project</h5>
+                                <h5><b>Demo Project</b></h5>
                                 {
                                     projectData.preview_project?.length != 0 ?
                                         <ul>

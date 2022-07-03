@@ -5,33 +5,28 @@
             "cover": "https://play-lh.googleusercontent.com/S04zKwsq82RdRvFEOOrUF_LJyN2sWU3R1o7V0rMZYLEp2cV9KoBQR-8X6QAf2VcVc6E=w2560-h1440-rw",
             "photos": [
                 {
-                    "original": "https://play-lh.googleusercontent.com/S04zKwsq82RdRvFEOOrUF_LJyN2sWU3R1o7V0rMZYLEp2cV9KoBQR-8X6QAf2VcVc6E=w2560-h1440-rw"
-        
-                    
+                    "original": "https://play-lh.googleusercontent.com/S04zKwsq82RdRvFEOOrUF_LJyN2sWU3R1o7V0rMZYLEp2cV9KoBQR-8X6QAf2VcVc6E=w2560-h1440-rw",
+                    "originalClass":"img-thumbnail"
                 },
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656812100/panenpanen.id/foto_app1_mquwvb.png"
-                   
-                    
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656812100/panenpanen.id/foto_app1_mquwvb.png",
+                    "originalClass":"img-thumbnail"
                 },
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656816717/panenpanen.id/foto_app6_ribmmu.png"
-                   
-                    
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656816717/panenpanen.id/foto_app6_ribmmu.png",
+                    "originalClass":"img-thumbnail"
                 },
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656816711/panenpanen.id/foto_web1_qyqkwh.png"
-                    
-                    
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656816711/panenpanen.id/foto_web1_qyqkwh.png",
+                    "originalClass":"img-thumbnail"
                 },
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656818289/panenpanen.id/foto_web4_gbp4aa.png"
-                    
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656818289/panenpanen.id/foto_web4_gbp4aa.png",
+                    "originalClass":"img-thumbnail"
                 },
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656818318/panenpanen.id/foto_app4_uacff2.png"
-                   
-                    
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656818318/panenpanen.id/foto_app4_uacff2.png",
+                    "originalClass":"img-thumbnail"
                 }
             ],
             "description": "ini deskripsi",
@@ -54,13 +49,15 @@
             "cover": "https://play-lh.googleusercontent.com/22HrbZQep-j1I9zcA65DRGnOIs_6G1Mms6K1rnNLGkV3d7YawKgA3CEQCAQijW5RgPan=w2560-h1440-rw",
             "photos": [
                 {
-                    "id": 0,
-                    "photo": "https://play-lh.googleusercontent.com/22HrbZQep-j1I9zcA65DRGnOIs_6G1Mms6K1rnNLGkV3d7YawKgA3CEQCAQijW5RgPan=w2560-h1440-rw"
+                    "original": "https://play-lh.googleusercontent.com/22HrbZQep-j1I9zcA65DRGnOIs_6G1Mms6K1rnNLGkV3d7YawKgA3CEQCAQijW5RgPan=w2560-h1440-rw"
                 },
                 {
-                    "id": 1,
-                    "photo": "https://play-lh.googleusercontent.com/22HrbZQep-j1I9zcA65DRGnOIs_6G1Mms6K1rnNLGkV3d7YawKgA3CEQCAQijW5RgPan=w2560-h1440-rw"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656820075/bisnisomall/foto_web1_y2zti0.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656820068/bisnisomall/foto_web5_zsc3c2.png"
                 }
+                
             ],
             "description": "ini deskripsi",
             "tools": [],
