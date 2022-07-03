@@ -17,7 +17,7 @@ const ListProject = () => {
                                 {
                                     portofolioData.data.map((data,index) => {
                                         return (
-                                            <div className='col-lg-4' >
+                                            <div className='col-lg-4' style={{marginBottom:'20px'}}>
                                                 <div onClick={()=>history.push({
                                                 pathname: `/detailproject/${index}`,
                                                 state:{

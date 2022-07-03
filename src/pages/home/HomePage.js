@@ -155,6 +155,12 @@ const HomePage = () => {
                                 <div></div>
                                 <a href='https://farhanfitrahtur.medium.com/'>https://farhanfitrahtur.medium.com/</a>
                             </li>
+                            <div style={{ height: '10px' }}></div>
+                            <li>
+                                <b>Google Play</b>
+                                <div></div>
+                                <a href='https://play.google.com/store/apps/dev?id=6998702707610706844'>https://play.google.com/store/apps/dev?id=6998702707610706844</a>
+                            </li>
 
                         </ul>
                         <hr />
