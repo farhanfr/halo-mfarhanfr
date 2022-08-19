@@ -29,7 +29,7 @@ const HomePage = () => {
                             <li>
                                 <b>Part-time</b>
                                 <div></div>
-                                <b>PT ADMA Digital Solusi</b> - Surabaya
+                                <b>ADS Digital Partner (PT.Adma Digital Solusi)</b> - Surabaya
                                 <div></div>
                                 <span>Mei 2021 – Sekarang</span>
                                 <div></div>

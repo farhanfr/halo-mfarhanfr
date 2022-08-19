@@ -2,10 +2,10 @@
     "data": [
         {
             "name": "PanenPanen.id",
-            "cover": "https://play-lh.googleusercontent.com/S04zKwsq82RdRvFEOOrUF_LJyN2sWU3R1o7V0rMZYLEp2cV9KoBQR-8X6QAf2VcVc6E=w2560-h1440-rw",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890212/panenpanen.id/panenpanen_zfgwl2.webp",
             "photos": [
                 {
-                    "original": "https://play-lh.googleusercontent.com/S04zKwsq82RdRvFEOOrUF_LJyN2sWU3R1o7V0rMZYLEp2cV9KoBQR-8X6QAf2VcVc6E=w2560-h1440-rw",
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890212/panenpanen.id/panenpanen_zfgwl2.webp",
                     "originalClass":"img-thumbnail"
                 },
                 {
@@ -46,10 +46,10 @@
         },
         {
             "name": "Bisnisomall",
-            "cover": "https://play-lh.googleusercontent.com/22HrbZQep-j1I9zcA65DRGnOIs_6G1Mms6K1rnNLGkV3d7YawKgA3CEQCAQijW5RgPan=w2560-h1440-rw",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890347/bisnisomall/bisniso_fjjib5.webp",
             "photos": [
                 {
-                    "original": "https://play-lh.googleusercontent.com/22HrbZQep-j1I9zcA65DRGnOIs_6G1Mms6K1rnNLGkV3d7YawKgA3CEQCAQijW5RgPan=w2560-h1440-rw"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890347/bisnisomall/bisniso_fjjib5.webp"
                 },
                 {
                     "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656820075/bisnisomall/foto_web1_y2zti0.png"
@@ -59,7 +59,7 @@
                 }
                 
             ],
-            "description": "ini deskripsi",
+            "description": "Bisnisomall merupakan platfrom bisnis digital yang mempertemukan produsen, UMKM, dan reseller untuk memudahkan pengembangan bisnis melalui strategi digital marketing terpadu. Pada projek ini saya berkontribusi pada sisi frontend yaitu pengembangan aplikasi dan website",
             "tools": [],
             "preview_project": [
                 {
@@ -76,25 +76,47 @@
         },
         {
             "name": "Monitoring Presisi",
-            "cover": "https://play-lh.googleusercontent.com/wJ0yywa7P3k-4BD1V7ww5IFTrzZMFa6pM-xDNY-4vMgG3mmA-PRZHp4X_ckjQkmDoFc=w2560-h1440-rw",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890447/monitoring%20presisi/aa_nhfceb.webp",
             "photos": [
                 {
-                    "photo": "https://play-lh.googleusercontent.com/wJ0yywa7P3k-4BD1V7ww5IFTrzZMFa6pM-xDNY-4vMgG3mmA-PRZHp4X_ckjQkmDoFc=w2560-h1440-rw"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890447/monitoring%20presisi/aa_nhfceb.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660894312/monitoring%20presisi/presisi1_zpdwnu.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660894312/monitoring%20presisi/presisi2_i0bx4i.webp"
                 }
+                
             ],
-            "description": "ini deskripsi",
+            "description": "Monitoring Presisi merupakan Aplikasi berbasis Mobile yang digunakan oleh Anggota Binmas dan Samapta Polres Metro Jakarta Barat, untuk melaporkan tugas atau misi patroli rutin, pada projek ini saya berkontribusi pada sisi frontend pengembangan aplikasinya",
             "tools": [],
-            "preview_project": []
+            "preview_project": [
+                {
+                    "link": "https://play.google.com/store/apps/details?id=com.admasolusi.monitoringpresisi",
+                    "title": "Google Play",
+                    "type": "- (Mobile)"
+                }
+            ]
         },
         {
             "name": "Pembudidaya Panen Ikan",
             "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656477197/Panen%20Ikan/Group_1_1_qh1cez.png",
             "photos": [
                 {
-                    "photo": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656477197/Panen%20Ikan/Group_1_1_qh1cez.png"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890819/Panen%20Ikan/foto_app_1_lnzcdu.png",
+                    "originalClass":"img-thumbnail"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890819/Panen%20Ikan/foto_app_2_dqrq73.png",
+                    "originalClass":"img-thumbnail"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890818/Panen%20Ikan/foto_app_3_srrsxk.png",
+                    "originalClass":"img-thumbnail"
                 }
             ],
-            "description": "ini deskripsi",
+            "description": "Aplikasi Panen Ikan-Pembudidaya adalah aplikasi pengelolaan kolam budidaya ikan yang dapat membantu pembudidaya mendapatkan keuntungan yang lebih baik. Pada aplikasi ini anda dapat melihat prediksi keuntungan anda ketika masa panen berdasarkan dengan jumlah bibit yang anda sebar ketika masa penebaran bibit, dan anda dapat dengan mudah memasarkan hasil panen anda ke marketplace panen-panen atau Platform Bisnis Digital (PBD). Pada projek ini saya berkontribusi pada sisi frontend yaitu pengembangan aplikasinya",
             "tools": [],
             "preview_project": [
                 {
@@ -110,26 +132,52 @@
             ]
         },
         {
-            "name": "PBD ADMA Mobile",
-            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552838/pbd%20/Group_1_7_tyemes.png",
+            "name": "SellerPro",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899669/sellerpro/seller_pro_v2ula7.webp",
             "photos": [
                 {
-                    "photo": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552838/pbd%20/Group_1_7_tyemes.png"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899756/sellerpro/seller_pro3_bcczzp.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899755/sellerpro/seller_pro5_sdawip.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899760/sellerpro/seller_pro2_e9u8i4.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899767/sellerpro/seller_pro4_br0cek.webp"
                 }
+                
             ],
-            "description": "ini deskripsi",
+            "description": "Sellerpro adalah aplikasi khusus untuk para reseller di Indonesia. Pada projek ini saya berkontribusi pada sisi frontend yaitu pengembangan aplikasi",
             "tools": [],
-            "preview_project": []
+            "preview_project": [
+                {
+                    "link": "https://play.google.com/store/apps/details?id=id.sellerpro.app",
+                    "title": "Google Play",
+                    "type": "- (Mobile)"
+                }
+            ]
         },
         {
             "name": "Modul Ajar Sistem Kontrol App",
             "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656478731/Modul%20ajar/Group_1_2_tbczul.png",
             "photos": [
                 {
-                    "photo": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656478731/Modul%20ajar/Group_1_2_tbczul.png"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660900555/Modul%20ajar/foto3_xz7gfw.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660900555/Modul%20ajar/foto7_dw3an1.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660900554/Modul%20ajar/foto5_gdwb2d.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660900554/Modul%20ajar/foto2_j3qof4.png"
                 }
+                
             ],
-            "description": "ini deskripsi",
+            "description": "Projek Modul Ajar Sistem Kontrol App merupakan sebuah projek pengembangan aplikasi untuk mata kuliah sistem kontrol pada jurusan listrik di Politeknik Negeri Malang. Pada projek ini saya berkontribusi sebagai frontend di sisi aplikasi mobile",
             "tools": [],
             "preview_project": []
         },
