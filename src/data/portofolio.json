@@ -186,22 +186,50 @@
             "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656551951/Perputakaan%20resep%20makanan/Group_1_3_vkqdio.png",
             "photos": [
                 {
-                    "photo": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656551951/Perputakaan%20resep%20makanan/Group_1_3_vkqdio.png"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661058894/Perputakaan%20resep%20makanan/resep2_ezvfxs.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661058898/Perputakaan%20resep%20makanan/resep1_ikeuq3.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661058892/Perputakaan%20resep%20makanan/resep3_xavwti.webp"
                 }
+                
             ],
-            "description": "ini deskripsi",
+            "description": "Projek ini merupakan projek pribadi saya sendiri dimana projek ini digunakan untuk melihat resep-resep makanan yang tersedia pada aplikasi ini. Selain resep makanan, ada juga beberapa artikel mengenai dapur,makanan dan sejenisnya",
             "tools": [],
-            "preview_project": []
+            "preview_project": [
+                {
+                    "link": "https://play.google.com/store/apps/details?id=com.perpustakaan.resep.makanan",
+                    "title": "Google Play",
+                    "type": "- (Mobile)"
+                }
+            ]
         },
         {
             "name": "E-Islamic",
             "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552212/E-islamic%20quran/Group_1_4_a3mjsg.png",
             "photos": [
                 {
-                    "photo": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552212/E-islamic%20quran/Group_1_4_a3mjsg.png"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661059306/E-islamic%20quran/foto_app_1_ktd4fh.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661059304/E-islamic%20quran/foto_app_2_buwhur.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661059304/E-islamic%20quran/foto_app_3_vvqywa.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661059306/E-islamic%20quran/foto_app_4_gaki41.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661059309/E-islamic%20quran/foto_app_5_qiwrdl.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661059304/E-islamic%20quran/foto_app_6_hqa2q1.png"
                 }
             ],
-            "description": "ini deskripsi",
+            "description": "Projek E-Islamic Quran App merupakan projek pribadi dimana projek ini digunakan untuk membaca Al-Quran dan Tafsir, selain itu di aplikasi juga terdapat audio setiap ayatnya ",
             "tools": [],
             "preview_project": []
         },
@@ -210,10 +238,23 @@
             "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552420/Family%20Reward/Group_1_5_kwulam.png",
             "photos": [
                 {
-                    "photo": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552420/Family%20Reward/Group_1_5_kwulam.png"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661060235/Family%20Reward/foto1_zrhoal.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661060236/Family%20Reward/foto2_nc8ndj.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661060235/Family%20Reward/foto3_msip7i.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661060236/Family%20Reward/foto4_b4hmym.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661060235/Family%20Reward/foto5_d26fi7.png"
                 }
+               
             ],
-            "description": "ini deskripsi",
+            "description": "Projek Family Reward merupakan projek pribadi berbasis website, dimana projek ini digunakan untuk memberi reward kepada anak, setelah mengerjakan tugas-tugas yang diberikan oleh orang tua mereka",
             "tools": [],
             "preview_project": []
         },
@@ -222,10 +263,19 @@
             "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552666/pantau%20covid-19/Group_1_6_ch2q22.png",
             "photos": [
                 {
-                    "photo": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656552666/pantau%20covid-19/Group_1_6_ch2q22.png"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661060743/pantau%20covid-19/foto1_1_f0atjo.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661060743/pantau%20covid-19/foto3_1_nfsbtk.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661060744/pantau%20covid-19/foto2_1_wlagwa.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1661060742/pantau%20covid-19/foto4_1_mi5am7.png"
                 }
             ],
-            "description": "ini deskripsi",
+            "description": "Projek Pantau Covid-19 merupakan projek pribadi, projek ini digunakan untuk melihat statistik jumlah kasus covid-19 di Indonesia maupun dunia",
             "tools": [],
             "preview_project": []
         }
