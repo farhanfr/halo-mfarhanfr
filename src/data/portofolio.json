@@ -100,6 +100,114 @@
             ]
         },
         {
+            "name": "SellerPro",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899669/sellerpro/seller_pro_v2ula7.webp",
+            "photos": [
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899756/sellerpro/seller_pro3_bcczzp.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899755/sellerpro/seller_pro5_sdawip.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899760/sellerpro/seller_pro2_e9u8i4.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899767/sellerpro/seller_pro4_br0cek.webp"
+                }
+                
+            ],
+            "description": "Sellerpro adalah aplikasi khusus untuk para reseller di Indonesia. Pada projek ini saya berkontribusi pada sisi frontend yaitu pengembangan aplikasi",
+            "tools": [],
+            "preview_project": [
+                {
+                    "link": "https://play.google.com/store/apps/details?id=id.sellerpro.app",
+                    "title": "Google Play",
+                    "type": "- (Mobile)"
+                }
+            ]
+        },
+        {
+            "name": "EKOMAD",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689247692/EKOMAD/gkfhvwe8u5o36xjnpgry.png",
+            "photos": [
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689247448/EKOMAD/dwg87u2badt7iuuvs5bw.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689247582/EKOMAD/xpwq4dnx87plhspfrtxf.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689247555/EKOMAD/xjddfbqu4eeiugxo4sdb.webp"
+                }
+                
+            ],
+            "description": "Ekomad (Ekosistem Komunitas Digital) adalah platform yang mempertemukan para UMKM, reseller, dan konsumen. Platform Ekomad dibuat untuk mewujudkan kemandirian masjid melalui program pemberdayaan dan pengembangan UMKM di sekitar masjid.",
+            "tools": [],
+            "preview_project": [
+                {
+                    "link": "https://ekomad.id/",
+                    "title": "https://ekomad.id/",
+                    "type": "- (Web)"
+                },
+                {
+                    "link": "https://play.google.com/store/apps/details?id=com.admasolusi.desadigital&hl=id-ID",
+                    "title": "Google Play",
+                    "type": "- (Mobile)"
+                }
+            ]
+        },
+        {
+            "name": "Scriptmatic",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689251467/scriptmatic/u3hhqmeraezqhomlqful.png",
+            "photos": [
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689251467/scriptmatic/q4euaz6berqlfooenlt7.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689251467/scriptmatic/l02txuhfxqeluag6silj.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689251467/scriptmatic/mzyyvo3sohhdryajsx4q.webp"
+                }
+                
+            ],
+            "description": "Scriptmatic adalah platform Customer Relationship Management (CRM) yang memudahkan Customer Service dalam melakukan generate script balasan untuk para customernya. Dengan menggunakan aplikasi scriptmatic, anda tidak akan kehabisan ide script chat yang bisa berimbas gagalnya closing. Scriptmatic akan memberikan Anda contekkan script chat apa saja yang bisa Anda gunakan setiap melayani customer.",
+            "tools": [],
+            "preview_project": [
+                {
+                    "link": "https://play.google.com/store/apps/details?id=id.scriptmatic.app&hl=id-ID",
+                    "title": "Google Play",
+                    "type": "- (Mobile)"
+                }
+            ]
+        },
+        {
+            "name": "APMIKIMMDO super apps",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689251812/APPMIKIMDO/odwc5brkr8a3fs9ibijl.png",
+            "photos": [
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689251813/APPMIKIMDO/algzset0vdpye8s86kzq.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689251813/APPMIKIMDO/uidqt25reys7flq8uzec.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689251814/APPMIKIMDO/dcdt3ywni6hketmzny4c.webp"
+                }
+                
+            ],
+            "description": "APMIKIMMDO super apps adalah Platform Ekosistem Bisnis Digital yang mempertemukan para UMKM dan reseller untuk memudahkan pengembangan bisnis melalui strategi digital marketing terpadu. Aplikasi ini dikembangkan sebagai bentuk dukungan dari APMIKIMMDO bagi para pengusaha UMKM daerah untuk melakukan transaksi serta memberikan layanan perizinan dan sertifikasi.",
+            "tools": [],
+            "preview_project": [
+                {
+                    "link": "https://play.google.com/store/apps/details?id=com.apmikimmdo.marketplace&hl=id-ID",
+                    "title": "Google Play",
+                    "type": "- (Mobile)"
+                }
+            ]
+        },
+        {
             "name": "Pembudidaya Panen Ikan",
             "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656477197/Panen%20Ikan/Group_1_1_qh1cez.png",
             "photos": [
@@ -131,34 +239,7 @@
                 }
             ]
         },
-        {
-            "name": "SellerPro",
-            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899669/sellerpro/seller_pro_v2ula7.webp",
-            "photos": [
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899756/sellerpro/seller_pro3_bcczzp.webp"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899755/sellerpro/seller_pro5_sdawip.webp"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899760/sellerpro/seller_pro2_e9u8i4.webp"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899767/sellerpro/seller_pro4_br0cek.webp"
-                }
-                
-            ],
-            "description": "Sellerpro adalah aplikasi khusus untuk para reseller di Indonesia. Pada projek ini saya berkontribusi pada sisi frontend yaitu pengembangan aplikasi",
-            "tools": [],
-            "preview_project": [
-                {
-                    "link": "https://play.google.com/store/apps/details?id=id.sellerpro.app",
-                    "title": "Google Play",
-                    "type": "- (Mobile)"
-                }
-            ]
-        },
+        
         {
             "name": "Modul Ajar Sistem Kontrol App",
             "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656478731/Modul%20ajar/Group_1_2_tbczul.png",
