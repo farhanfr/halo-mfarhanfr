@@ -100,6 +100,34 @@
             ]
         },
         {
+            "name": "SellerPro v2",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899669/sellerpro/seller_pro_v2ula7.webp",
+            "photos": [
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899756/sellerpro/seller_pro3_bcczzp.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899755/sellerpro/seller_pro5_sdawip.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899760/sellerpro/seller_pro2_e9u8i4.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899767/sellerpro/seller_pro4_br0cek.webp"
+                }
+                
+            ],
+            "description": "Sellerpro adalah aplikasi khusus untuk para reseller di Indonesia. Pada projek ini saya berkontribusi pada sisi frontend yaitu pengembangan aplikasi",
+            "tools": [],
+            "preview_project": [
+                {
+                    "link": "https://play.google.com/store/apps/details?id=id.sellerpro.app",
+                    "title": "Google Play",
+                    "type": "- (Mobile)"
+                }
+            ]
+        },
+        {
             "name": "SellerPro",
             "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899669/sellerpro/seller_pro_v2ula7.webp",
             "photos": [

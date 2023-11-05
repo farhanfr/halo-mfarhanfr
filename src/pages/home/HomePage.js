@@ -33,7 +33,7 @@ const HomePage = () => {
                                 <div></div>
                                 <span>Mei 2021 – Sekarang</span>
                                 <div></div>
-                                <span>Sebagai Frontend Engineer (Flutter)</span>
+                                <span>Sebagai Frontend Engineer </span>
                             </li>
                             <div style={{ height: '10px' }}></div>
                             <li>
@@ -51,7 +51,7 @@ const HomePage = () => {
                                 <div></div>
                                 <b>PT. Digdaya Olah Teknologi Indonesia</b> - Malang
                                 <div></div>
-                                <span>Juli – September 2018</span>
+                                <span>Juli 2018 – September 2018</span>
                                 <div></div>
                                 <span>Sebagai Frontend Engineer</span>
                             </li>
@@ -81,14 +81,13 @@ const HomePage = () => {
                             <li>Flutter</li>
                             <li>React Native</li>
                             <li>React JS</li>
-                            <li>Java</li>
+                            <li>Next JS</li>
                             <li>Laravel</li>
-                            <li>PHP Native</li>
-                            <li>HTML & CSS</li>
-                            <li>Git</li>
-                            <li>Visual Studio Code</li>
-                            <li>Android Studio</li>
-                            <li>MS Word, PowerPoint</li>
+                            <li>MUI React</li>
+                            <li>Javascript</li>
+                            <li>CSS</li>
+                            <li>HTML</li>
+                            <li>GIT</li>
                         </ul>
                         <hr />
                         <h4 style={{ color: '#4E73DF' }}><b>Portofolio</b></h4>
