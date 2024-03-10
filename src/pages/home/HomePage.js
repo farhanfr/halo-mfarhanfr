@@ -31,15 +31,44 @@ const HomePage = () => {
                                 <div></div>
                                 <b>ADS Digital Partner (PT.Adma Digital Solusi)</b> - Surabaya
                                 <div></div>
-                                <span>Mei 2021 – Sekarang</span>
+                                <span>Mei 2020 – Sekarang</span>
                                 <div></div>
                                 <span>Sebagai Frontend Engineer </span>
+                            </li><div style={{ height: '10px' }}></div>
+                            <li>
+                                <b>Full-time</b>
+                                <div></div>
+                                <b>Kementerian Kelautan dan Perikanan Republik Indonesia</b> - Jakarta Pusat
+                                <div></div>
+                                <span>Agustus 2023 – Sekarang</span>
+                                <div></div>
+                                <span>Sebagai Helpdesk IT Support Vendor</span>
+                            </li>
+                            <div style={{ height: '10px' }}></div>
+                            <li>
+                                <b>Full-time</b>
+                                <div></div>
+                                <b>PT. ARM Solusi</b> - Jakarta Selatan
+                                <div></div>
+                                <span>Agustus 2023 – Sekarang</span> 
+                                <div></div>
+                                <span>Sebagai IT Support & Software Engineer</span>
                             </li>
                             <div style={{ height: '10px' }}></div>
                             <li>
                                 <b>Freelancer</b>
                                 <div></div>
-                                <b>PT ASRI UTAMA IP&S</b> - Jakarta Selatan
+                                <b>Work From Anywhere</b>
+                                <div></div>
+                                <span>Januari 2018 – Sekarang</span>
+                                <div></div>
+                                <span>Sebagai Software Engineer</span>
+                            </li>
+                            <div style={{ height: '10px' }}></div>
+                            <li>
+                                <b>Freelancer</b>
+                                <div></div>
+                                <b>PT. ASRI UTAMA IP&S</b> - Jakarta Selatan
                                 <div></div>
                                 <span>Juli 2020 – September 2020</span>
                                 <div></div>
@@ -64,7 +93,7 @@ const HomePage = () => {
                                 <div></div>
                                 <b>Politeknik Negeri Malang</b> - Malang
                                 <div></div>
-                                <span>2019 - Sekarang</span>
+                                <span>2019 - 2023</span>
                             </li>
                             <div style={{ height: '10px' }}></div>
                             <li>

@@ -2,11 +2,11 @@ import React from 'react';
 
 const BasicCard = (props) =>{
     return(
-        <>
-        <img src={props.img} className='img-fluid' style={{borderRadius:'15px'}}/>
-        <div style={{height:'10px'}}></div>
-        <h6 className='text-center'>{props.title}</h6>
-        </>
+        <div className='shadow-sm border rounded'>
+        <img src={props.img} className='img-fluid rounded'/>
+        {/* <div style={{height:'10px'}}></div> */}
+        {/* <h6 className='text-center font-weight-bold'>{props.title}</h6> */}
+        </div>
     )
 }
 

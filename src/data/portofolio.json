@@ -2,18 +2,18 @@
     "data": [
         {
             "name": "PanenPanen.id",
-            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890212/panenpanen.id/panenpanen_zfgwl2.webp",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710053895/panenpanen.id/panenpanen_effjf4.png",
             "photos": [
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890212/panenpanen.id/panenpanen_zfgwl2.webp",
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844129/panenpanen.id/unnamed_3_hsakkl.webp",
                     "originalClass":"img-thumbnail"
                 },
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656812100/panenpanen.id/foto_app1_mquwvb.png",
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708843997/panenpanen.id/unnamed_1_zfk6bv.webp",
                     "originalClass":"img-thumbnail"
                 },
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656816717/panenpanen.id/foto_app6_ribmmu.png",
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708843997/panenpanen.id/unnamed_1_zfk6bv.webp",
                     "originalClass":"img-thumbnail"
                 },
                 {
@@ -25,7 +25,7 @@
                     "originalClass":"img-thumbnail"
                 },
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656818318/panenpanen.id/foto_app4_uacff2.png",
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708843997/panenpanen.id/unnamed_2_nn6hvo.webp",
                     "originalClass":"img-thumbnail"
                 }
             ],
@@ -46,7 +46,7 @@
         },
         {
             "name": "Bisnisomall",
-            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890347/bisnisomall/bisniso_fjjib5.webp",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710054111/bisnisomall/bisnisomall_cv9xiw.png",
             "photos": [
                 {
                     "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890347/bisnisomall/bisniso_fjjib5.webp"
@@ -56,6 +56,12 @@
                 },
                 {
                     "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656820068/bisnisomall/foto_web5_zsc3c2.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710050914/bisnisomall/LPQNa1EHxcxeJLNhk7PwSy8BD_YUEnj6MVst7KIXav5B-bqICqxXkLoYKBt9dhwX5Qw_w5120-h2880-rw_meq6cy.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710050946/bisnisomall/XSDQi56kMpwB3zEtotdYv2VUnuq7sCCoUKrzLJCaSAA0fVJWK7amk6QHJCxA1I8Bie8_w5120-h2880-rw_q3jmwp.webp"
                 }
                 
             ],
@@ -76,7 +82,7 @@
         },
         {
             "name": "Monitoring Presisi",
-            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890447/monitoring%20presisi/aa_nhfceb.webp",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710054275/monitoring%20presisi/Monitoring_pressis_ulhlv2.png",
             "photos": [
                 {
                     "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890447/monitoring%20presisi/aa_nhfceb.webp"
@@ -100,48 +106,21 @@
             ]
         },
         {
-            "name": "SellerPro v2",
-            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899669/sellerpro/seller_pro_v2ula7.webp",
-            "photos": [
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899756/sellerpro/seller_pro3_bcczzp.webp"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899755/sellerpro/seller_pro5_sdawip.webp"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899760/sellerpro/seller_pro2_e9u8i4.webp"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899767/sellerpro/seller_pro4_br0cek.webp"
-                }
-                
-            ],
-            "description": "Sellerpro adalah aplikasi khusus untuk para reseller di Indonesia. Pada projek ini saya berkontribusi pada sisi frontend yaitu pengembangan aplikasi",
-            "tools": [],
-            "preview_project": [
-                {
-                    "link": "https://play.google.com/store/apps/details?id=id.sellerpro.app",
-                    "title": "Google Play",
-                    "type": "- (Mobile)"
-                }
-            ]
-        },
-        {
             "name": "SellerPro",
-            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899669/sellerpro/seller_pro_v2ula7.webp",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710051305/sellerpro/Group_4_guoqaj.png",
             "photos": [
+              
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899756/sellerpro/seller_pro3_bcczzp.webp"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_4_vioiqf.webp"
                 },
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899755/sellerpro/seller_pro5_sdawip.webp"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_2_ybh3zu.webp"
                 },
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899760/sellerpro/seller_pro2_e9u8i4.webp"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_1_wqemtf.webp"
                 },
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660899767/sellerpro/seller_pro4_br0cek.webp"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_i9iads.webp"
                 }
                 
             ],
@@ -149,21 +128,21 @@
             "tools": [],
             "preview_project": [
                 {
-                    "link": "https://play.google.com/store/apps/details?id=id.sellerpro.app",
+                    "link": "https://play.google.com/store/apps/details?id=id.sellerpro.apps",
                     "title": "Google Play",
                     "type": "- (Mobile)"
                 }
             ]
         },
         {
-            "name": "EKOMAD",
-            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689247692/EKOMAD/gkfhvwe8u5o36xjnpgry.png",
+            "name": "ICOHUB",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710054508/EKOMAD/ICOHUB_ketupp.png",
             "photos": [
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689247448/EKOMAD/dwg87u2badt7iuuvs5bw.webp"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710060629/EKOMAD/1UcAQN29KJ01yA0-USaBDQoJs0U1_5Gkgq1I3xm0lnFuTewTtP68gpKoGp7L9RXWRO0_w5120-h2880-rw_qm4k1p.webp"
                 },
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689247582/EKOMAD/xpwq4dnx87plhspfrtxf.webp"
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710060642/EKOMAD/Agtm5cmcd4w0U4gVNr0RNUc66ZOXwIZg13BhEJgnEsZZ2Cf3onsmZrfON11AIo9XlC4_w5120-h2880-rw_isfs5t.webp"
                 },
                 {
                     "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689247555/EKOMAD/xjddfbqu4eeiugxo4sdb.webp"
@@ -179,7 +158,7 @@
                     "type": "- (Web)"
                 },
                 {
-                    "link": "https://play.google.com/store/apps/details?id=com.admasolusi.desadigital&hl=id-ID",
+                    "link": "https://play.google.com/store/apps/details?id=id.icohub.app",
                     "title": "Google Play",
                     "type": "- (Mobile)"
                 }
@@ -187,7 +166,7 @@
         },
         {
             "name": "Scriptmatic",
-            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689251467/scriptmatic/u3hhqmeraezqhomlqful.png",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710054713/scriptmatic/Scriptmatic_dtfwzi.png",
             "photos": [
                 {
                     "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689251467/scriptmatic/q4euaz6berqlfooenlt7.webp"
@@ -212,7 +191,7 @@
         },
         {
             "name": "APMIKIMMDO super apps",
-            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689251812/APPMIKIMDO/odwc5brkr8a3fs9ibijl.png",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710055087/APPMIKIMDO/APPMIKIMDO_f08pdb.png",
             "photos": [
                 {
                     "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1689251813/APPMIKIMDO/algzset0vdpye8s86kzq.webp"
@@ -237,18 +216,18 @@
         },
         {
             "name": "Pembudidaya Panen Ikan",
-            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656477197/Panen%20Ikan/Group_1_1_qh1cez.png",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710055169/Panen%20Ikan/PANEN_IKAN_w7oaij.png",
             "photos": [
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890819/Panen%20Ikan/foto_app_1_lnzcdu.png",
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710055756/Panen%20Ikan/mfKmrQ-WOyDZ2MDqpFJvG-LEZJCG8xPtN8iy1dxd76PjPvqSVRZjp53Si73uy07o0JeW_w5120-h2880-rw_expexp.webp",
                     "originalClass":"img-thumbnail"
                 },
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890819/Panen%20Ikan/foto_app_2_dqrq73.png",
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710055782/Panen%20Ikan/2KE_1EYQn6mkQLRXk5Gq46CAkTEu-er4z29dMrzIGMdQDYwHH9TNLiiHc-hMyUq9Jos_w5120-h2880-rw_gexqai.webp",
                     "originalClass":"img-thumbnail"
                 },
                 {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1660890818/Panen%20Ikan/foto_app_3_srrsxk.png",
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710055808/Panen%20Ikan/5Q5cZRY985DOprQw-EOkOpBMJ7kV6qr_bltspo0FqOtt78LL72Z9Tvxvoj_sXs__LWs_w5120-h2880-rw_n4uyix.webp",
                     "originalClass":"img-thumbnail"
                 }
             ],
