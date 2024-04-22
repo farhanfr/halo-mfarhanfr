@@ -235,18 +235,43 @@
             "tools": [],
             "preview_project": [
                 {
-                    "link": "https://bisnisomall.com/",
-                    "title": "https://bisnisomall.com/",
-                    "type": "- (Web)"
-                },
-                {
                     "link": "https://play.google.com/store/apps/details?id=id.bisniso.market",
                     "title": "Google Play",
                     "type": "- (Mobile)"
                 }
             ]
         },
-        
+        {
+            "name": "Forwardin",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713774865/Forwardin/Forwadin_coiir5.png",
+            "photos": [
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713775204/Forwardin/FORWARDIN_1_jhehea.png",
+                    "originalClass":"img-thumbnail"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713775204/Forwardin/FORWARDIN_2_sg2stn.png",
+                    "originalClass":"img-thumbnail"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713775204/Forwardin/FORWARDIN_3_gxixv0.png",
+                    "originalClass":"img-thumbnail"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713775204/Forwardin/FORWARDIN_4_evkwle.png",
+                    "originalClass":"img-thumbnail"
+                }
+            ],
+            "description": "Forwardin merupakan aplikasi berbasis website yang membantu user untuk mengelola pesan menjadi lebih mudah. Penerusan pesan menjadi lebih lancar melalui fitur otomatis, sehingga user dapat lebih fokus pada interaksi dengan pelanggan",
+            "tools": [],
+            "preview_project": [
+                {
+                    "link": "https://forwardin.admasolusi.space/",
+                    "title": "https://forwardin.admasolusi.space/",
+                    "type": "- (Web)"
+                }
+            ]
+        },
         {
             "name": "Modul Ajar Sistem Kontrol App",
             "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656478731/Modul%20ajar/Group_1_2_tbczul.png",
