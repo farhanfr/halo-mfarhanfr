@@ -45,6 +45,70 @@
             ]
         },
         {
+            "name": "SellerPro",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710051305/sellerpro/Group_4_guoqaj.png",
+            "photos": [
+              
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_4_vioiqf.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_2_ybh3zu.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_1_wqemtf.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_i9iads.webp"
+                }
+                
+            ],
+            "description": "Sellerpro adalah aplikasi khusus untuk para reseller di Indonesia. Pada projek ini saya berkontribusi pada sisi frontend yaitu pengembangan aplikasi",
+            "tools": [],
+            "preview_project": [
+                {
+                    "link": "https://play.google.com/store/apps/details?id=id.sellerpro.apps",
+                    "title": "Google Play",
+                    "type": "- (Mobile)"
+                }
+            ]
+        },
+        {
+            "name": "KKP Website",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1715786971/KKP/WEBSITE/KKP_Website_lhgvdc.png",
+            "photos": [
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1715787371/KKP/WEBSITE/KKP1_tdhang.png",
+                    "originalClass":"img-thumbnail"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1715787362/KKP/WEBSITE/KKP4_w2g7uq.png",
+                    "originalClass":"img-thumbnail"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1715787361/KKP/WEBSITE/KKP2_fwmosd.png",
+                    "originalClass":"img-thumbnail"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1656816711/panenpanen.id/foto_web1_qyqkwh.png",
+                    "originalClass":"img-thumbnail"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1715787360/KKP/WEBSITE/KKP3_ykq6gk.png",
+                    "originalClass":"img-thumbnail"
+                }
+            ],
+            "description": "Projek KKP Website merupakan projek dari kementerian kelautan dan perikanan yaitu dalam pengembangan informasi mengenai kemeterian kelautan dan perikanan berbasis aplikasi website",
+            "tools": [],
+            "preview_project": [
+                {
+                    "link": "https://kkp.go.id/",
+                    "title": "https://kkp.go.id/",
+                    "type": "- (Web)"
+                }
+            ]
+        },
+        {
             "name": "Bisnisomall",
             "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710054111/bisnisomall/bisnisomall_cv9xiw.png",
             "photos": [
@@ -105,35 +169,7 @@
                 }
             ]
         },
-        {
-            "name": "SellerPro",
-            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710051305/sellerpro/Group_4_guoqaj.png",
-            "photos": [
-              
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_4_vioiqf.webp"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_2_ybh3zu.webp"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_1_wqemtf.webp"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_i9iads.webp"
-                }
-                
-            ],
-            "description": "Sellerpro adalah aplikasi khusus untuk para reseller di Indonesia. Pada projek ini saya berkontribusi pada sisi frontend yaitu pengembangan aplikasi",
-            "tools": [],
-            "preview_project": [
-                {
-                    "link": "https://play.google.com/store/apps/details?id=id.sellerpro.apps",
-                    "title": "Google Play",
-                    "type": "- (Mobile)"
-                }
-            ]
-        },
+        
         {
             "name": "ICOHUB",
             "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710054508/EKOMAD/ICOHUB_ketupp.png",

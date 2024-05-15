@@ -35,7 +35,7 @@ const HomePage = () => {
                                 <div></div>
                                 <span>Sebagai Frontend Engineer </span>
                             </li><div style={{ height: '10px' }}></div>
-                            <li>
+                            {/* <li>
                                 <b>Full-time</b>
                                 <div></div>
                                 <b>Kementerian Kelautan dan Perikanan Republik Indonesia</b> - Jakarta Pusat
@@ -44,7 +44,7 @@ const HomePage = () => {
                                 <div></div>
                                 <span>Sebagai Helpdesk IT Support Vendor</span>
                             </li>
-                            <div style={{ height: '10px' }}></div>
+                            <div style={{ height: '10px' }}></div> */}
                             <li>
                                 <b>Full-time</b>
                                 <div></div>
