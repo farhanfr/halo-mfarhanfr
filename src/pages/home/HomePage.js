@@ -19,10 +19,13 @@ const HomePage = () => {
                         <p>Software Engineer</p>
                         <hr />
                         <h4 style={{ color: '#4E73DF' }}><b>Tentang Saya</b></h4>
-                        <p>Halo, perkenalkan nama saya Mochamad Farhan Fitrahtur Rachmad, bisa dipanggil Farhan.
-                            Saya memiliki hobi dalam membuat aplikasi dan programming. Saya seorang pekerja keras dan
-                            juga seseorang yang bisa bekerja sama dengan tim. Saya siap menerima pengetahuan baru dan
-                            dapat bekerja di bawah tekanan.</p>
+                        <p>Halo, Perkenalkan, nama saya Mochamad Farhan Fitrahtur Rachmad dan nama panggilan saya Farhan.
+Kemudian pendidikan terakhir saya D4 Teknik Informatika di Politeknik Negeri Malang,
+kemudian saya juga sudah berkecimpung di dunia pemrograman khususnya frontend engineering
+selama kurang lebih 5 tahun. Kemudian teknologi yang saya gunakan adalah React JS, React
+Native, Next JS dan Flutter dan bahasa pemrograman yang biasa saya gunakan adalah JS, TS dan
+Dart. Saya juga seorang pekerja keras dan dapat bekerja secara individu maupun tim. Saya juga
+siap menerima ilmu baru dan dapat bekerja dibawah tekanan.</p>
                         <hr />
                         <h4 style={{ color: '#4E73DF' }}><b>Pengalaman Produktif</b></h4>
                         <ul>
@@ -31,7 +34,7 @@ const HomePage = () => {
                                 <div></div>
                                 <b>ADS Digital Partner (PT.Adma Digital Solusi)</b> - Surabaya
                                 <div></div>
-                                <span>Mei 2020 – Sekarang</span>
+                                <span>Mei 2021 – Juni 2024</span>
                                 <div></div>
                                 <span>Sebagai Frontend Engineer </span>
                             </li><div style={{ height: '10px' }}></div>
