@@ -53,19 +53,9 @@ siap menerima ilmu baru dan dapat bekerja dibawah tekanan.</p>
                                 <div></div>
                                 <b>PT. ARM Solusi</b> - Jakarta Selatan
                                 <div></div>
-                                <span>Agustus 2023 – Sekarang</span> 
+                                <span>Agustus 2023 – Juni 2024</span> 
                                 <div></div>
                                 <span>Sebagai IT Support & Software Engineer</span>
-                            </li>
-                            <div style={{ height: '10px' }}></div>
-                            <li>
-                                <b>Freelancer</b>
-                                <div></div>
-                                <b>Work From Anywhere</b>
-                                <div></div>
-                                <span>Januari 2018 – Sekarang</span>
-                                <div></div>
-                                <span>Sebagai Software Engineer</span>
                             </li>
                             <div style={{ height: '10px' }}></div>
                             <li>
