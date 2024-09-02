@@ -1,6 +1,97 @@
 {
     "data": [
         {
+            "name": "Forwardin",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713774865/Forwardin/Forwadin_coiir5.png",
+            "photos": [
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713775204/Forwardin/FORWARDIN_1_jhehea.png",
+                    "originalClass":"img-thumbnail"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713775204/Forwardin/FORWARDIN_2_sg2stn.png",
+                    "originalClass":"img-thumbnail"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713775204/Forwardin/FORWARDIN_3_gxixv0.png",
+                    "originalClass":"img-thumbnail"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713775204/Forwardin/FORWARDIN_4_evkwle.png",
+                    "originalClass":"img-thumbnail"
+                }
+            ],
+            "description": "Forwardin merupakan aplikasi berbasis website yang membantu user untuk mengelola pesan menjadi lebih mudah. Penerusan pesan menjadi lebih lancar melalui fitur otomatis, sehingga user dapat lebih fokus pada interaksi dengan pelanggan",
+            "tools": [],
+            "preview_project": [
+                {
+                    "link": "https://forwardin.admasolusi.space/",
+                    "title": "https://forwardin.admasolusi.space/",
+                    "type": "- (Web)"
+                }
+            ]
+        },
+        {
+            "name": "SellerPro",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710051305/sellerpro/Group_4_guoqaj.png",
+            "photos": [
+              
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1725249448/sellerpro/Screenshot_2024-09-02_105603_c3eclg.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1725249447/sellerpro/Screenshot_2024-09-02_105705_bedz5o.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_1_wqemtf.webp"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_i9iads.webp"
+                }
+                
+            ],
+            "description": "Sellerpro adalah aplikasi khusus untuk para reseller di Indonesia. Pada projek ini saya berkontribusi pada sisi frontend yaitu pengembangan aplikasi",
+            "tools": [],
+            "preview_project": [
+                {
+                    "link": "https://play.google.com/store/apps/details?id=id.sellerpro.apps",
+                    "title": "Google Play",
+                    "type": "- (Mobile)"
+                },
+                {
+                    "link": "#",
+                    "title": "Unavailable",
+                    "type": "- (Web)"
+                }
+            ]
+        },
+        {
+            "name": "MojoSadean",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1725250499/mojosadean/mojosadean_3x_ysq6nj.png",
+            "photos": [
+              
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1725250682/mojosadean/Screenshot_2024-09-02_111614_idzsgc.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1725250683/mojosadean/Screenshot_2024-09-02_111630_nadyp4.png"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1725250683/mojosadean/Screenshot_2024-09-02_111648_zhwiys.png"
+                }
+                
+            ],
+            "description": "Proyek MojoSadean App merupakan aplikasi marketplace berbasis mobile yang dapat digunakan oleh UMKM khususnya di kota Mojokerto dimana UMKM dapat melakukan jual beli produknyaefektif melalui aplikasi dan Mojosadean Toko adalah aplikasi yang digunakan untuk mengelolaproduk yang dijual pada aplikasi MojoSadean, dengan adanya aplikasi ini mempermudahpenjual untuk menjual produknya secara efektif dan efisien melalui fitur-fitur yang terdapat di dalamnyaaplikasi",
+            "tools": [],
+            "preview_project": [
+                {
+                    "link": "https://mojosadean.rodiginesia.com/",
+                    "title": "Link",
+                    "type": "- (Web)"
+                }
+            ]
+        },
+        {
             "name": "PanenPanen.id",
             "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710053895/panenpanen.id/panenpanen_effjf4.png",
             "photos": [
@@ -39,35 +130,6 @@
                 },
                 {
                     "link": "https://play.google.com/store/apps/details?id=com.panenpanen.marketplace",
-                    "title": "Google Play",
-                    "type": "- (Mobile)"
-                }
-            ]
-        },
-        {
-            "name": "SellerPro",
-            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710051305/sellerpro/Group_4_guoqaj.png",
-            "photos": [
-              
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_4_vioiqf.webp"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_2_ybh3zu.webp"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_1_wqemtf.webp"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1708844705/sellerpro/unnamed_i9iads.webp"
-                }
-                
-            ],
-            "description": "Sellerpro adalah aplikasi khusus untuk para reseller di Indonesia. Pada projek ini saya berkontribusi pada sisi frontend yaitu pengembangan aplikasi",
-            "tools": [],
-            "preview_project": [
-                {
-                    "link": "https://play.google.com/store/apps/details?id=id.sellerpro.apps",
                     "title": "Google Play",
                     "type": "- (Mobile)"
                 }
@@ -274,37 +336,6 @@
                     "link": "https://play.google.com/store/apps/details?id=id.bisniso.market",
                     "title": "Google Play",
                     "type": "- (Mobile)"
-                }
-            ]
-        },
-        {
-            "name": "Forwardin",
-            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713774865/Forwardin/Forwadin_coiir5.png",
-            "photos": [
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713775204/Forwardin/FORWARDIN_1_jhehea.png",
-                    "originalClass":"img-thumbnail"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713775204/Forwardin/FORWARDIN_2_sg2stn.png",
-                    "originalClass":"img-thumbnail"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713775204/Forwardin/FORWARDIN_3_gxixv0.png",
-                    "originalClass":"img-thumbnail"
-                },
-                {
-                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1713775204/Forwardin/FORWARDIN_4_evkwle.png",
-                    "originalClass":"img-thumbnail"
-                }
-            ],
-            "description": "Forwardin merupakan aplikasi berbasis website yang membantu user untuk mengelola pesan menjadi lebih mudah. Penerusan pesan menjadi lebih lancar melalui fitur otomatis, sehingga user dapat lebih fokus pada interaksi dengan pelanggan",
-            "tools": [],
-            "preview_project": [
-                {
-                    "link": "https://forwardin.admasolusi.space/",
-                    "title": "https://forwardin.admasolusi.space/",
-                    "type": "- (Web)"
                 }
             ]
         },
