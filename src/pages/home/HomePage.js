@@ -16,7 +16,7 @@ const HomePage = () => {
                 <div className='side-right'>
                     <div className='content'>
                         <h3><b>Mochamad Farhan Fitrahtur Rachmad</b></h3>
-                        <p>Software Engineer</p>
+                        <p>Frontend Engineer || <span style={{color: '#4E73DF'}}>Flutter, React JS, React Native, Next JS</span></p>
                         <hr />
                         <h4 style={{ color: '#4E73DF' }}><b>Tentang Saya</b></h4>
                         <p>Halo, Perkenalkan, nama saya Mochamad Farhan Fitrahtur Rachmad dan nama panggilan saya Farhan.
@@ -29,15 +29,32 @@ siap menerima ilmu baru dan dapat bekerja dibawah tekanan.</p>
                         <hr />
                         <h4 style={{ color: '#4E73DF' }}><b>Pengalaman Produktif</b></h4>
                         <ul>
+                        <li>
+                            <b>Contract</b>
+                                <div></div>
+                                <b>Live700 Software Inc</b> - Makati, Philipines
+                                <div></div>
+                                <span>September 2024 – Sekarang</span>
+                                <div></div>
+                                <span>Sebagai Flutter Developer </span>
+                            </li>
+                            <div style={{ height: '10px' }}></div>
                             <li>
                                 <b>Full-time</b>
                                 <div></div>
-                                <b>ADS Digital Partner (PT.Adma Digital Solusi)</b> - Surabaya
+                                <b>ADS Digital Partner (PT.Adma Digital Solusi)</b> - Surabaya, Indonesia
                                 <div></div>
                                 <span>Mei 2021 – Juni 2024</span>
                                 <div></div>
-                                <span>Sebagai Frontend Engineer </span>
-                            </li><div style={{ height: '10px' }}></div>
+                                <span>Dalam pekerjaan ini saya diberi tanggung jawab sebagai frontend engineer, pada posisi ini saya ditugaskan
+untuk membuat website dan aplikasi mobile, untuk teknologi yang digunakan dalam pengembangan website
+yaitu ReactJS dan frameworknya yaitu NextJS, dengan bahasa pemrograman yang digunakan yaitu Javascript
+dan TypeScript, kemudian untuk teknologi dalam pengembangan mobile menggunakan React native dengan
+bahasa pemrograman Javascript dan Typescript, lalu menggunakan Flutter dengan bahasa pemrograman Dart.
+Selain itu, tugas detail saya meliputi slicing desain yang telah dibuat oleh Desainer UI/UX dan
+mengimplementasikan sumber daya API yang dibuat oleh backend engineer ke dalam aplikasi.</span>
+                            </li>
+                            <div style={{ height: '10px' }}></div>
                             {/* <li>
                                 <b>Full-time</b>
                                 <div></div>
@@ -51,7 +68,7 @@ siap menerima ilmu baru dan dapat bekerja dibawah tekanan.</p>
                             <li>
                                 <b>Full-time</b>
                                 <div></div>
-                                <b>PT. ARM Solusi</b> - Jakarta Selatan
+                                <b>PT. ARM Solusi</b> - Jakarta Selatan, Indonesia
                                 <div></div>
                                 <span>Agustus 2023 – Juni 2024</span> 
                                 <div></div>
@@ -61,21 +78,27 @@ siap menerima ilmu baru dan dapat bekerja dibawah tekanan.</p>
                             <li>
                                 <b>Freelancer</b>
                                 <div></div>
-                                <b>PT. ASRI UTAMA IP&S</b> - Jakarta Selatan
+                                <b>PT. ASRI UTAMA IP&S</b> - Jakarta Selatan, Indonesia
                                 <div></div>
                                 <span>Juli 2020 – September 2020</span>
                                 <div></div>
-                                <span>Sebagai Software Engineer</span>
+                                <span>Dalam pekerjaan ini saya adalah seorang freelancer rekayasa perangkat lunak, dimana saya membuat
+sistem informasi berupa admin tools berbasis website. Teknologi yang saya gunakan adalah
+framework CodeIgniter dengan bahasa pemrograman yang digunakan yaitu PHP. Dan untuk frontend
+tersendiri menggunakan React JS dan Next JS</span>
                             </li>
                             <div style={{ height: '10px' }}></div>
                             <li>
                                 <b>Internship</b>
                                 <div></div>
-                                <b>PT. Digdaya Olah Teknologi Indonesia</b> - Malang
+                                <b>PT. Digdaya Olah Teknologi Indonesia</b> - Malang, Indonesia
                                 <div></div>
                                 <span>Juli 2018 – September 2018</span>
                                 <div></div>
-                                <span>Sebagai Frontend Engineer</span>
+                                <span>Dalam pekerjaan ini saya diberi tanggung jawab sebagai frontend engineer, dimana selama masa magang saya ditugaskan untuk membuat sistem
+informasi aplikasi berbasis website yaitu website company profile dan project dengan klien
+perusahaan. Teknologi yang saya gunakan adalah VueJS dan React dengan bahasa pemrograman yang
+digunakan yaitu JavaScript</span>
                             </li>
                         </ul>
                         <hr />
@@ -161,18 +184,6 @@ siap menerima ilmu baru dan dapat bekerja dibawah tekanan.</p>
                                     fill="currentColor"
                                     height="30"
                                     width="30"
-
-                                >
-                                    <path d="M20.229 15.793a.666.666 0 00.244-.243.666.666 0 00.09-.333l.012-3.858a.666.666 0 01.09-.333.666.666 0 01.245-.243L23 9.58a.667.667 0 01.333-.088.667.667 0 01.333.09.667.667 0 01.244.243.666.666 0 01.089.333v7.014a.667.667 0 01-.335.578l-7.893 4.534a.666.666 0 01-.662 0l-6.194-3.542a.667.667 0 01-.246-.244.667.667 0 01-.09-.335v-3.537c0-.004.004-.006.008-.004s.008 0 .008-.005v-.004c0-.003.002-.005.004-.007l5.102-2.93c.004-.003.002-.01-.003-.01a.005.005 0 01-.004-.002.005.005 0 01-.001-.004l.01-3.467a.667.667 0 00-.333-.58.667.667 0 00-.667 0L8.912 9.799a.667.667 0 01-.665 0l-3.804-2.19a.667.667 0 00-.999.577v6.267a.667.667 0 01-.332.577.666.666 0 01-.332.09.667.667 0 01-.333-.088L.336 13.825a.667.667 0 01-.246-.244.667.667 0 01-.09-.336L.019 2.292a.667.667 0 01.998-.577l7.23 4.153a.667.667 0 00.665 0l7.228-4.153a.666.666 0 01.333-.088.666.666 0 01.333.09.667.667 0 01.244.244.667.667 0 01.088.333V13.25c0 .117-.03.232-.089.334a.667.667 0 01-.245.244l-3.785 2.18a.667.667 0 00-.245.245.666.666 0 00-.089.334.667.667 0 00.09.334.666.666 0 00.247.244l2.088 1.189a.67.67 0 00.33.087.667.667 0 00.332-.089l4.457-2.56zm.438-9.828a.666.666 0 00.09.335.666.666 0 00.248.244.667.667 0 00.67-.008l2.001-1.2a.666.666 0 00.237-.243.667.667 0 00.087-.329V2.32a.667.667 0 00-.091-.335.667.667 0 00-.584-.33.667.667 0 00-.334.094l-2 1.2a.666.666 0 00-.238.243.668.668 0 00-.086.329v2.445z" />
-                                </svg>
-                                <span className='px-1'></span>
-                                MUI React</li>
-                            <li className='py-2'>
-                                <svg
-                                    viewBox="0 0 24 24"
-                                    fill="currentColor"
-                                    height="30"
-                                    width="30"
                                 >
                                     <path d="M18.5 9.51a4.22 4.22 0 01-1.91-1.34A5.77 5.77 0 0012 6a4.72 4.72 0 00-5 4 3.23 3.23 0 013.5-1.49 4.32 4.32 0 011.91 1.35A5.77 5.77 0 0017 12a4.72 4.72 0 005-4 3.2 3.2 0 01-3.5 1.51zm-13 4.98a4.22 4.22 0 011.91 1.34A5.77 5.77 0 0012 18a4.72 4.72 0 005-4 3.23 3.23 0 01-3.5 1.49 4.32 4.32 0 01-1.91-1.35A5.8 5.8 0 007 12a4.72 4.72 0 00-5 4 3.2 3.2 0 013.5-1.51z" />
                                 </svg>
@@ -206,7 +217,7 @@ siap menerima ilmu baru dan dapat bekerja dibawah tekanan.</p>
 
                                 CSS</li>
                             <li className='py-2'>
-                                <svg
+                                <svg    
                                     viewBox="0 0 1024 1024"
                                     fill="currentColor"
                                     height="30"
@@ -277,7 +288,7 @@ siap menerima ilmu baru dan dapat bekerja dibawah tekanan.</p>
                                     <span className='px-1'></span>
                                     Linkedin</b>
                                 <div></div>
-                                <a href='https://www.linkedin.com/in/mochamad-farhan-fitrahtur-rachmad'>https://www.linkedin.com/in/mochamad-farhan-fitrahtur-rachmad</a>
+                                <a href='https://www.linkedin.com/in/mfarhanfr/' target='_blank'>https://www.linkedin.com/in/mfarhanfr/</a>
                             </li>
                             <div style={{ height: '10px' }}></div>
                             <li>
@@ -293,7 +304,7 @@ siap menerima ilmu baru dan dapat bekerja dibawah tekanan.</p>
                                     <span className='px-1'></span>
                                     Github</b>
                                 <div></div>
-                                <a href='https://github.com/farhanfr'>https://github.com/farhanfr</a>
+                                <a href='https://github.com/farhanfr' target='_blank'>https://github.com/farhanfr</a>
                             </li>
                             <div style={{ height: '10px' }}></div>
                             <li>
@@ -310,7 +321,7 @@ siap menerima ilmu baru dan dapat bekerja dibawah tekanan.</p>
                                     <span className='px-1'></span>
                                     Gitlab</b>
                                 <div></div>
-                                <a href='https://gitlab.com/farhanfitrahtur'>https://gitlab.com/farhanfitrahtur</a>
+                                <a href='https://gitlab.com/farhanfitrahtur' target='_blank'>https://gitlab.com/farhanfitrahtur</a>
                             </li>
                             <div style={{ height: '10px' }}></div>
                             {/* <li>
@@ -333,7 +344,7 @@ siap menerima ilmu baru dan dapat bekerja dibawah tekanan.</p>
                                     <span className='px-1'></span>
                                     Medium</b>
                                 <div></div>
-                                <a href='https://farhanfitrahtur.medium.com/'>https://farhanfitrahtur.medium.com/</a>
+                                <a href='https://farhanfitrahtur.medium.com/' target='_blank'>https://farhanfitrahtur.medium.com/</a>
                             </li>
                             <div style={{ height: '10px' }}></div>
                             <li>
@@ -350,7 +361,7 @@ siap menerima ilmu baru dan dapat bekerja dibawah tekanan.</p>
                                     <span className='px-1'></span>
                                     Google Play</b>
                                 <div></div>
-                                <a href='https://play.google.com/store/apps/dev?id=6998702707610706844'>https://play.google.com/store/apps/dev?id=6998702707610706844</a>
+                                <a href='https://play.google.com/store/apps/dev?id=6998702707610706844' target='_blank'>https://play.google.com/store/apps/dev?id=6998702707610706844</a>
                             </li>
 
                         </ul>
@@ -360,26 +371,26 @@ siap menerima ilmu baru dan dapat bekerja dibawah tekanan.</p>
                             <li>
                                 <b>Certificate of Competence - Junior Programming</b> (BNSP LSPTIK)
                                 <div></div>
-                                <a href='https://drive.google.com/file/d/1l_1_HyMNCuXyC5OKip20Kpt56yp61GFV/view?usp=sharing'>Lihat Sertifikat</a>
+                                <a href='https://drive.google.com/file/d/1l_1_HyMNCuXyC5OKip20Kpt56yp61GFV/view?usp=sharing' target='_blank'>Lihat Sertifikat</a>
                             </li>
                             <div style={{ height: '10px' }}></div>
                             <li>
                                 <b>Junior Web Developer</b> (Digital Talent Scholarship)
                                 <div></div>
-                                <a href='https://drive.google.com/file/d/1Tu4ndXiFuxMqg8ojfwzDbmOmGuagqiXl/view?usp=sharing'>Lihat Sertifikat</a>
+                                <a href='https://drive.google.com/file/d/1Tu4ndXiFuxMqg8ojfwzDbmOmGuagqiXl/view?usp=sharing' target='_blank'>Lihat Sertifikat</a>
                             </li>
                             <div style={{ height: '10px' }}></div>
                             <li>
                                 <b>Certificate of Completion of Learning Fundamental an
                                     Android Application</b> (Dicoding)
                                 <div></div>
-                                <a href='https://drive.google.com/file/d/1DOuu_XHdytHXy2wxrA35SlM5sEJSr8Ar/view?usp=sharing'>Lihat Sertifikat</a>
+                                <a href='https://drive.google.com/file/d/1DOuu_XHdytHXy2wxrA35SlM5sEJSr8Ar/view?usp=sharing' target='_blank'>Lihat Sertifikat</a>
                             </li>
                             <div style={{ height: '10px' }}></div>
                             <li>
                                 <b>Certificate of Completion of Learning Creating an Flutter Application for Beginners</b> (Dicoding)
                                 <div></div>
-                                <a href='https://drive.google.com/file/d/1A3MdfWklsG8R1-Kr2XGMpHBlRbfSek9j/view?usp=sharing'>Lihat Sertifikat</a>
+                                <a href='https://drive.google.com/file/d/1A3MdfWklsG8R1-Kr2XGMpHBlRbfSek9j/view?usp=sharing' target='_blank'>Lihat Sertifikat</a>
                             </li>
                         </ul>
                     </div>
