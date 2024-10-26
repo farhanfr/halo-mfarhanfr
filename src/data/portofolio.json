@@ -92,6 +92,29 @@
             ]
         },
         {
+            "name": "Doa Web",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1729933728/Doa%20Web/Group_1_seucuf.png",
+            "photos": [
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1729933877/Doa%20Web/Screenshot_2024-10-26_161002_eydj1p.png",
+                    "originalClass":"img-thumbnail"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1729933877/Doa%20Web/Screenshot_2024-10-26_161047_hduoch.png",
+                    "originalClass":"img-thumbnail"
+                }
+            ],
+            "description": "Project Doa Web",
+            "tools": [],
+            "preview_project": [
+                {
+                    "link": "https://doa-web-farhanfrs-projects.vercel.app/",
+                    "title": "https://doa-web-farhanfrs-projects.vercel.app/",
+                    "type": "- (Web)"
+                }
+            ]
+        },
+        {
             "name": "PanenPanen.id",
             "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1710053895/panenpanen.id/panenpanen_effjf4.png",
             "photos": [
