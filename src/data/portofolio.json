@@ -113,6 +113,28 @@
                     "type": "- (Web)"
                 }
             ]
+        },{
+            "name": "Quran Web Indonesia",
+            "cover": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1731903390/QURAN%20WEB/QURAN_Web_eddh5q.png",
+            "photos": [
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1731903482/QURAN%20WEB/quran_web_1_pumoml.png",
+                    "originalClass":"img-thumbnail"
+                },
+                {
+                    "original": "https://res.cloudinary.com/halomfarhanfr/image/upload/v1731903485/QURAN%20WEB/quran_web_2_pmjvz4.png",
+                    "originalClass":"img-thumbnail"
+                }
+            ],
+            "description": "Project Quran Web dengan bahasa indonesia",
+            "tools": [],
+            "preview_project": [
+                {
+                    "link": "https://al-quran-indonesia-web.vercel.app/",
+                    "title": "https://al-quran-indonesia-web.vercel.app/",
+                    "type": "- (Web)"
+                }
+            ]
         },
         {
             "name": "PanenPanen.id",
